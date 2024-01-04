@@ -21,7 +21,7 @@ pip install video-summary
 First, obtain your free API key from [VideoSummary.io](https://videosummary.io?utm_source=github). Then, install the SDK and integrate it into your Python projects as follows:
 
 ```python
-from video_summary_sdk import VideoSummarySDK
+from video_summary import VideoSummarySDK
 
 # Initialize the SDK with your API key
 video_summary = VideoSummarySDK('your_api_key')

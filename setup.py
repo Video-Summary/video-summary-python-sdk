@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='video-summary',
-    version='1.0.0',
+    version='1.0.3',
     author='Video Summary',
     author_email='hi@videosummary.io',
     description='A Python SDK for video processing, providing functionalities like speech-to-text, summarization, transcription, and chaptering.',

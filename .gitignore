@@ -2,3 +2,4 @@ dist
 video_summary.egg-info
 build
 .pypirc
+build_push.sh
